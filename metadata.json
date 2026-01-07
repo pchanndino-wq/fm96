@@ -1,0 +1,7 @@
+{
+  "name": "FM95 Brooklyn Media Group",
+  "description": "Premium radio and media production network featuring FM95, WAMY Classic Country, and WWZQ. Serving Brooklyn with Local Sports, Weather, and Classic Hits.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
